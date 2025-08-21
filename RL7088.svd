@@ -27677,7 +27677,7 @@
       <interrupt>
         <name>PQC</name>
         <description>PQC Interrupt</description>
-        <value>238</value>
+        <value>165</value>
       </interrupt>
 
       <!-- Registers -->
