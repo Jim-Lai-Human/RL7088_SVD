@@ -9262,7 +9262,7 @@
       <interrupt>
         <name>TACHO0</name>
         <description>TACHO0 Interrupt</description>
-        <value>192</value>
+        <value>82</value>
       </interrupt>
 
       <!-- Registers -->
@@ -9634,7 +9634,7 @@
       <interrupt>
         <name>TACHO1</name>
         <description>TACHO1 Interrupt</description>
-        <value>193</value>
+        <value>83</value>
       </interrupt>
     </peripheral>
     <!-- TACHO2 -->
@@ -9644,7 +9644,7 @@
       <interrupt>
         <name>TACHO2</name>
         <description>TACHO2 Interrupt</description>
-        <value>194</value>
+        <value>84</value>
       </interrupt>
     </peripheral>
     <!-- TACHO3 -->
@@ -9654,7 +9654,7 @@
       <interrupt>
         <name>TACHO3</name>
         <description>TACHO3 Interrupt</description>
-        <value>195</value>
+        <value>85</value>
       </interrupt>
     </peripheral>
     <!-- TACHO4 -->
@@ -9664,7 +9664,7 @@
       <interrupt>
         <name>TACHO4</name>
         <description>TACHO4 Interrupt</description>
-        <value>176</value>
+        <value>86</value>
       </interrupt>
     </peripheral>
     <!-- TACHO5 -->
@@ -9674,7 +9674,7 @@
       <interrupt>
         <name>TACHO5</name>
         <description>TACHO5 Interrupt</description>
-        <value>177</value>
+        <value>87</value>
       </interrupt>
     </peripheral>
     <!-- TACHO6 -->
@@ -9684,7 +9684,7 @@
       <interrupt>
         <name>TACHO6</name>
         <description>TACHO6 Interrupt</description>
-        <value>177</value>
+        <value>88</value>
       </interrupt>
     </peripheral>
     <!-- TACHO7 -->
@@ -9694,7 +9694,7 @@
       <interrupt>
         <name>TACHO7</name>
         <description>TACHO7 Interrupt</description>
-        <value>177</value>
+        <value>89</value>
       </interrupt>
     </peripheral>
     <!-- TACHO8 -->
@@ -9704,7 +9704,7 @@
       <interrupt>
         <name>TACHO8</name>
         <description>TACHO8 Interrupt</description>
-        <value>177</value>
+        <value>90</value>
       </interrupt>
     </peripheral>
     <!-- TACHO9 -->
@@ -9714,7 +9714,7 @@
       <interrupt>
         <name>TACHO9</name>
         <description>TACHO9 Interrupt</description>
-        <value>177</value>
+        <value>91</value>
       </interrupt>
     </peripheral>
     <!-- TACHO10 -->
@@ -9724,7 +9724,7 @@
       <interrupt>
         <name>TACHO10</name>
         <description>TACHO10 Interrupt</description>
-        <value>177</value>
+        <value>92</value>
       </interrupt>
     </peripheral>
     <!-- TACHO11 -->
@@ -9734,7 +9734,7 @@
       <interrupt>
         <name>TACHO11</name>
         <description>TACHO11 Interrupt</description>
-        <value>177</value>
+        <value>93</value>
       </interrupt>
     </peripheral>
     <!-- TACHO12 -->
@@ -9744,7 +9744,7 @@
       <interrupt>
         <name>TACHO12</name>
         <description>TACHO12 Interrupt</description>
-        <value>177</value>
+        <value>94</value>
       </interrupt>
     </peripheral>
     <!-- TACHO13 -->
@@ -9754,7 +9754,7 @@
       <interrupt>
         <name>TACHO13</name>
         <description>TACHO13 Interrupt</description>
-        <value>177</value>
+        <value>95</value>
       </interrupt>
     </peripheral>
     <!-- ADC -->
