@@ -11990,7 +11990,7 @@
       <interrupt>
         <name>UART</name>
         <description>UART Interrupt</description>
-        <value>191</value>
+        <value>79</value>
       </interrupt>
 
       <!-- Registers -->
@@ -13088,7 +13088,7 @@
       <interrupt>
         <name>UART1</name>
         <description>UART1 Interrupt</description>
-        <value>235</value>
+        <value>80</value>
       </interrupt>
     </peripheral>
     <!-- UART2 -->
@@ -13099,7 +13099,7 @@
       <interrupt>
         <name>UART2</name>
         <description>UART2 Interrupt</description>
-        <value>235</value>
+        <value>81</value>
       </interrupt>
     </peripheral>
     <!-- SPIC -->
