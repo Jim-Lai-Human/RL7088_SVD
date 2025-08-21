@@ -10567,7 +10567,7 @@
       <interrupt>
         <name>PS2</name>
         <description>PS2 Interrupt</description>
-        <value>190</value>
+        <value>76</value>
       </interrupt>
 
       <!-- Registers -->
@@ -10942,7 +10942,7 @@
       <interrupt>
         <name>PS2_2</name>
         <description>PS2 2 Interrupt</description>
-        <value>235</value>
+        <value>27735</value>
       </interrupt>
     </peripheral>
     <!-- PS2 3 -->
@@ -10953,7 +10953,7 @@
       <interrupt>
         <name>PS2_3</name>
         <description>PS2 3 Interrupt</description>
-        <value>235</value>
+        <value>78</value>
       </interrupt>
     </peripheral>
     <!-- KBM -->
