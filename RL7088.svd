@@ -3974,7 +3974,7 @@
       <interrupt>
         <name>I2C0</name>
         <description>I2C0 Interrupt</description>
-        <value>182</value>
+        <value>65</value>
       </interrupt>
 
       <!-- Registers -->
@@ -6600,7 +6600,7 @@
       <interrupt>
         <name>I2C1</name>
         <description>I2C1 Interrupt</description>
-        <value>183</value>
+        <value>66</value>
       </interrupt>
     </peripheral>
     <!-- I2C2 -->
@@ -6611,7 +6611,7 @@
       <interrupt>
         <name>I2C2</name>
         <description>I2C2 Interrupt</description>
-        <value>184</value>
+        <value>67</value>
       </interrupt>
     </peripheral>
     <!-- I2C3 -->
@@ -6622,7 +6622,7 @@
       <interrupt>
         <name>I2C3</name>
         <description>I2C3 Interrupt</description>
-        <value>185</value>
+        <value>68</value>
       </interrupt>
     </peripheral>
     <!-- I2C4 -->
@@ -6633,7 +6633,7 @@
       <interrupt>
         <name>I2C4</name>
         <description>I2C4 Interrupt</description>
-        <value>186</value>
+        <value>69</value>
       </interrupt>
     </peripheral>
     <!-- I2C5 -->
@@ -6644,7 +6644,7 @@
       <interrupt>
         <name>I2C5</name>
         <description>I2C5 Interrupt</description>
-        <value>187</value>
+        <value>70</value>
       </interrupt>
     </peripheral>
     <!-- I2C6 -->
@@ -6655,7 +6655,7 @@
       <interrupt>
         <name>I2C6</name>
         <description>I2C6 Interrupt</description>
-        <value>188</value>
+        <value>71</value>
       </interrupt>
     </peripheral>
     <!-- I2C7 -->
@@ -6666,7 +6666,7 @@
       <interrupt>
         <name>I2C7</name>
         <description>I2C7 Interrupt</description>
-        <value>189</value>
+        <value>72</value>
       </interrupt>
     </peripheral>
     <!-- I2C8 -->
@@ -6677,7 +6677,7 @@
       <interrupt>
         <name>I2C8</name>
         <description>I2C8 Interrupt</description>
-        <value>189</value>
+        <value>73</value>
       </interrupt>
     </peripheral>
     <!-- I2C9 -->
@@ -6688,7 +6688,7 @@
       <interrupt>
         <name>I2C9</name>
         <description>I2C9 Interrupt</description>
-        <value>189</value>
+        <value>74</value>
       </interrupt>
     </peripheral>
     <!-- I2C10 -->
@@ -6699,7 +6699,7 @@
       <interrupt>
         <name>I2C10</name>
         <description>I2C10 Interrupt</description>
-        <value>189</value>
+        <value>75</value>
       </interrupt>
     </peripheral>
     <!-- I3C -->
