@@ -13125,7 +13125,7 @@
       <interrupt>
         <name>SPIC</name>
         <description>SPIC Interrupt</description>
-        <value>180</value>
+        <value>62</value>
       </interrupt>
 
       <!-- Registers -->
@@ -14512,7 +14512,7 @@
       <interrupt>
         <name>SPIC1</name>
         <description>SPIC1 Interrupt</description>
-        <value>180</value>
+        <value>63</value>
       </interrupt>
     </peripheral>
     <!-- SPIS -->
